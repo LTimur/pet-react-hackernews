@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from 'react'
-import '../Components/App/App.css';
 import { getStoryIds } from '../Services/hackernewsApi'
 import { Story } from '../Components/Story/Story'
 

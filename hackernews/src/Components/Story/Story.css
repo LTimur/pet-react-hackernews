@@ -1,6 +1,8 @@
 .storiesWrapper {
     margin: 0 auto;
-    width: 85%;
+    width: 84%;
+    background-color: #F6F6EF;
+    padding: 5px 0 0 5px;
 }
 
 .storyLink {
