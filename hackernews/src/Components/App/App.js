@@ -1,12 +1,4 @@
 import React from 'react'
-import './App.css';
+import { StoriesContainer } from '../../Containers/storiesContainer'
 
-function App() {
-  return (
-    <div className="App">
-      <p>text</p>
-    </div>
-  );
-}
-
-export default App;
+export const App = () => < StoriesContainer />
