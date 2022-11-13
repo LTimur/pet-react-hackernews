@@ -4,7 +4,7 @@ import './Header.css'
 export const Header = () => {
     return  (
         <div className='headerWrapper'>
-            <img src="./logo.gif" alt="logo" />
+            <img className='logo' src='logo.gif' alt="logo" />
             <h1 className="heading">Hacker News</h1>
         </div>
     ) 
