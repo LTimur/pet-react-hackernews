@@ -1,0 +1,21 @@
+.storiesWrapper {
+    margin: 0 auto;
+    width: 85%;
+}
+
+.storyLink {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #000000;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.storyDetails {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 7pt;
+    color: #828282;
+    margin: 0;
+    padding: 0;
+}
