@@ -11,8 +11,8 @@ export const StoriesContainer = () => {
   }, [])
 
   // setTimeout(() => {
-  //   let storyIdsUpdated = true
-  // }, 60000)
+  //   return storyIds.slice(0,100).map(storyId => (<Story key={storyId} storyId={storyId}/>))
+  // }, 200)
 
-  return storyIds.map(storyId => (<Story key={storyId} storyId={storyId}/>))
+  return storyIds.slice(0,100).map(storyId => (<Story key={storyId} storyId={storyId}/>))
 }

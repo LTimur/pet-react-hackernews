@@ -21,3 +21,14 @@
     align-self: center;
     margin-left: 4px;
 }
+
+.refreshButton {
+    align-self: flex-end;
+    margin: 0;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #222222;
+    line-height: 12px;
+    align-self: center;
+    margin-left: 50px;
+}

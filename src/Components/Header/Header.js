@@ -6,6 +6,7 @@ export const Header = () => {
         <div className='headerWrapper'>
             <img className='logo' src='logo.gif' alt="logo" />
             <h1 className="heading">Hacker News</h1>
+            <p className='refreshButton'>Refresh</p>
         </div>
     ) 
 }
